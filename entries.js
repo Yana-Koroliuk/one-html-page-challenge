@@ -16,6 +16,13 @@
 
 const entries = [
 	{
+		title: "My Part",
+		filename: "mypages.html",
+		description: "This is my pages.",
+		author: "Yana Koroliuk",
+		github: "Yana-Koroliuk",
+	},
+	{
 		title: "Dancing Man",
 		filename: "dancing_man.html",
 		description: "The first submission to the One HTML Page Challenge. It is a simple ASCII man starting the dance from Napoleon Dynamite.",
